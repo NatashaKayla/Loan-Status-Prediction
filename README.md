@@ -85,15 +85,6 @@ Model used:
 
 ---
 
-### ✅ Best Model Selection
-
-* **XGBoost** performed best overall with the highest **ROC-AUC** score
-* Capable of handling both numerical and categorical features
-* Robust against class imbalance
-* Chosen as the final model
-
----
-
 ### 🔧 Fine-Tuning with XGBoost
 
 * Used **GridSearchCV** for hyperparameter tuning
